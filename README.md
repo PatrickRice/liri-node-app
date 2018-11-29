@@ -11,4 +11,4 @@ LIRI can take the following commands:
 
 **do-what-it-says** - reads one of the three commands listed above as well as the search criteria from "random.txt" and provides feedback through the command line in the same format as described above.
 
-Link to demo videos:  https://github.com/PatrickRice/liri-node-app
+Link to demo videos: https://github.com/PatrickRice/liri-node-app/blob/master/liri_demo.mov
